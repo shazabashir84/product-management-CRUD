@@ -12,5 +12,5 @@ HTML · CSS · JavaScript
 
 **Links:**  
 
-🔹 [GitHub Repository](https://github.com/shazabashir84/crud-app)
+🔹 [GitHub Repository](https://shazabashir84.github.io/product-management-CRUD/)
 A simple web app for performing basic operations (Create, Read, Update, Delete) using local storage.  
